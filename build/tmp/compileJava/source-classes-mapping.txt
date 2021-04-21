@@ -1,0 +1,8 @@
+com/example/demo/UserRepository.java
+ com.example.demo.UserRepository
+com/example/demo/TestSqlApplication.java
+ com.example.demo.TestSqlApplication
+com/example/demo/User.java
+ com.example.demo.User
+com/example/demo/MainController.java
+ com.example.demo.MainController
